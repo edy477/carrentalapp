@@ -1,0 +1,11 @@
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\bin\Debug\net8.0\CarRentalApp.Domain.deps.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.AssemblyInfoInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.AssemblyInfo.cs
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\refint\CarRentalApp.Domain.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Domain\obj\Debug\net8.0\ref\CarRentalApp.Domain.dll

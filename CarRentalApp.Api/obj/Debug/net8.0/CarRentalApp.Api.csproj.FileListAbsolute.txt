@@ -1,0 +1,11 @@
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\bin\Debug\net8.0\CarRentalApp.Api.deps.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\bin\Debug\net8.0\CarRentalApp.Api.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\bin\Debug\net8.0\CarRentalApp.Api.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.AssemblyInfoInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.AssemblyInfo.cs
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.csproj.CoreCompileInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\refint\CarRentalApp.Api.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\CarRentalApp.Api.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Api\obj\Debug\net8.0\ref\CarRentalApp.Api.dll

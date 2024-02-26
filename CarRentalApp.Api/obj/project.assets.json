@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "CarRentalApp.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CarRentalApp.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CarRentalApp.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarRentalApp.Application.dll": {}
+        }
+      },
+      "CarRentalApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CarRentalApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarRentalApp.Domain.dll": {}
+        }
+      },
+      "CarRentalApp.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CarRentalApp.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CarRentalApp.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarRentalApp.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRentalApp.Application/1.0.0": {
+      "type": "project",
+      "path": "../CarRentalApp.Application/CarRentalApp.Application.csproj",
+      "msbuildProject": "../CarRentalApp.Application/CarRentalApp.Application.csproj"
+    },
+    "CarRentalApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CarRentalApp.Domain/CarRentalApp.Domain.csproj",
+      "msbuildProject": "../CarRentalApp.Domain/CarRentalApp.Domain.csproj"
+    },
+    "CarRentalApp.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CarRentalApp.Infrastructure/CarRentalApp.Infrastructure.csproj",
+      "msbuildProject": "../CarRentalApp.Infrastructure/CarRentalApp.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "CarRentalApp.Application >= 1.0.0",
+      "CarRentalApp.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\eva\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Api\\CarRentalApp.Api.csproj",
+      "projectName": "CarRentalApp.Api",
+      "projectPath": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Api\\CarRentalApp.Api.csproj",
+      "packagesPath": "C:\\Users\\eva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\eva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Application\\CarRentalApp.Application.csproj": {
+              "projectPath": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Application\\CarRentalApp.Application.csproj"
+            },
+            "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Infrastructure\\CarRentalApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Infrastructure\\CarRentalApp.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.deps.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.AssemblyInfo.cs
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\refint\CarRentalApp.Infrastructure.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\ref\CarRentalApp.Infrastructure.dll
