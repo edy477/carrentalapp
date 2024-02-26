@@ -9,3 +9,10 @@ C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Applicatio
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\refint\CarRentalApp.Application.dll
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\CarRentalApp.Application.pdb
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\ref\CarRentalApp.Application.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\bin\Debug\net8.0\CarRentalApp.Application.runtimeconfig.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\CarRentalApp.Application.csproj.AssemblyReference.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\CarRentalApp.Application.sourcelink.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\CarRentalApp.Application.csproj.CopyComplete
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Application\obj\Debug\net8.0\CarRentalApp.Application.genruntimeconfig.cache

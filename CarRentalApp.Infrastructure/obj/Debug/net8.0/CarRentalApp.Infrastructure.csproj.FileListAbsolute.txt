@@ -9,3 +9,12 @@ C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastruc
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\refint\CarRentalApp.Infrastructure.dll
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.pdb
 C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\ref\CarRentalApp.Infrastructure.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Infrastructure.runtimeconfig.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Application.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Domain.dll
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Application.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\bin\Debug\net8.0\CarRentalApp.Domain.pdb
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.sourcelink.json
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.csproj.CopyComplete
+C:\Users\eva\Documents\project\carrentalapp\carrentalapp\CarRentalApp.Infrastructure\obj\Debug\net8.0\CarRentalApp.Infrastructure.genruntimeconfig.cache

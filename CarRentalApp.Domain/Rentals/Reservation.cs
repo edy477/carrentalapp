@@ -1,4 +1,5 @@
 ﻿using System.Runtime.InteropServices.JavaScript;
+using CarRentalApp.Domain.Cars;
 
 namespace CarRentalApp.Domain.Rentals;
 
@@ -11,6 +12,6 @@ public class Reservation
     public DateTime StartDate{ get; set; }
     public DateTime EnnDate{ get; set; }
     public string RentalType { get; set; }
-    
+    public ICollection<Car> Cars;
 
 }

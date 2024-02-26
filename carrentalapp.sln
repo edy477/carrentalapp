@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Api", "CarRentalApp.Api\CarRentalApp.Api.csproj", "{48818E70-082D-41D5-9008-7A22D00ACF9E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Application", "CarRentalApp.Application\CarRentalApp.Application.csproj", "{406BAACA-5E12-45F4-BAF9-EA37874C45B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRentalApp.Domain", "CarRentalApp.Domain\CarRentalApp.Domain.csproj", "{6682CE54-EF4B-4063-8837-4587A36EC5ED}"
@@ -20,10 +18,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{48818E70-082D-41D5-9008-7A22D00ACF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{48818E70-082D-41D5-9008-7A22D00ACF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{48818E70-082D-41D5-9008-7A22D00ACF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{48818E70-082D-41D5-9008-7A22D00ACF9E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{406BAACA-5E12-45F4-BAF9-EA37874C45B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{406BAACA-5E12-45F4-BAF9-EA37874C45B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406BAACA-5E12-45F4-BAF9-EA37874C45B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
