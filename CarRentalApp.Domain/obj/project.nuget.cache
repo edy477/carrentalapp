@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9apbpkJ5xRDWlgTWUehc25NJjDthIQgXEudwWwrOWCay/gQUrQ/uY01JlGJVIT4CczPHJA5cDgkqSaPvlfaSqA==",
+  "dgSpecHash": "6qPz0IB6IFOxOFXkuG15ZSjQzw9FkYtwPVZHeuxmVcNxQUcfcTkde7k8iSqRyjgI5Hm0mIUTYi1h6DMBWb0HgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\eva\\Documents\\project\\carrentalapp\\carrentalapp\\CarRentalApp.Domain\\CarRentalApp.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\eva\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\eva\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\eva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

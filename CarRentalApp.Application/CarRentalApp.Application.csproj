@@ -16,8 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Cars\Commands\UpdateCar\" />
-    <Folder Include="Cars\Queries\" />
     <Folder Include="Customers\" />
     <Folder Include="Locations\" />
     <Folder Include="Rentals\" />

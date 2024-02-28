@@ -23,6 +23,6 @@ public interface IApplicationDBContext
     public DbSet<Insurance> Insurances { get; }
     public DbSet<RentalInsurance> RentalInsurances { get; }
 
-    // Task<int> SaveChangesAsync(CancellationToken cancellationToken);
+     Task<int> SaveChangesAsync(CancellationToken cancellationToken);
 
 }
